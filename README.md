@@ -3,9 +3,7 @@
 > [Behrooz Tahanzadeh](http://b-tz.com)<br/>
 > March 2016<br/>
 
-![screenshot](https://raw.githubusercontent.com/behrooz-tahanzadeh/ROS.GH/master/assets/cover.gif)
 
-=======
 Installation
 -----
 1. Install rosbridge package for ros
@@ -20,3 +18,5 @@ For more information visit [rosbridge wiki page](http://wiki.ros.org/rosbridge_s
 3. Install [GhPython](http://www.food4rhino.com/app/ghpython) for Grasshopper.<br/>
 
 4. Download ROS.GH package and open `main.gh` file or drag `.ghuser` files into Grasshopper canvas.
+
+![screenshot](https://raw.githubusercontent.com/behrooz-tahanzadeh/ROS.GH/master/assets/cover.gif)
